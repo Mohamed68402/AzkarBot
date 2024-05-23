@@ -1,0 +1,26 @@
+{
+  "name": "discord_bot_tutorial_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "start": "node index.js",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.9.0",
+    "@discordjs/voice": "^0.16.1",
+    "axios": "^1.2.1",
+    "cron": "^3.1.7",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.3",
+    "ffmpeg-static": "^5.2.0",
+    "libsodium-wrappers": "^0.7.13",
+    "node-opus": "^0.3.3",
+    "opusscript": "^0.0.8",
+    "play-sound": "^1.1.6"
+  }
+}
